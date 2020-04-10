@@ -44,8 +44,8 @@ Fabrication
 
 Ben: Vücut Kitle Endeksi (BMI): 20,4 kg / metrekare
 Babam: Vücut Kitle Endeksi (BMI): 27,3 kg / metrekare
-Annem: Vücut Kitle Endeksi (BMI): 25,2 kg / metrekare
-Kardeşim 1: Vücut Kitle Endeksi (BMI): 18,6 kg / metrekare
+Annem: Vücut Kitle Endeksi (BMI): 25,2 kg / metrekare
+Kardeşim 1: Vücut Kitle Endeksi (BMI): 18,6 kg / metrekare
 Kardeşim 2: Vücut Kitle Endeksi (BMI): 15,6 kg / metrekare
 
 
